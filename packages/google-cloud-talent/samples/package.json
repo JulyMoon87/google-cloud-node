@@ -19,7 +19,7 @@
   "dependencies": {
     "@google-cloud/talent": "^7.0.1",
     "uuid": "^9.0.0",
-    "yargs": "^17.0.0"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
